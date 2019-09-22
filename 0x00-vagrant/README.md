@@ -30,7 +30,7 @@
  * A README.md file at the root of the holbertonschool-zero_day repo, containing a description of the repository
 
 ## Task
-####[0. Hello Ubuntu](./0-hello_ubuntu)
+#### [0. Hello Ubuntu](./0-hello_ubuntu)
 - Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
 - ssh into your Ubuntu VM. What does the command uname print when you run it without any option?
 - Type your answer into a file in the 0x00-vagrant directory and push it to GitHub 
