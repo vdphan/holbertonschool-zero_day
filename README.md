@@ -4,6 +4,8 @@
 
 # Holberton School Zero-Day
 
+This repository contains project for zero-day at Holberton school.
+
 | Project | Description |
 | :--- | :--- |
 | [0x00. Vagrant](./0x00-vagrant) | Introduction to Vagrant, virtual machine and how to run Ubuntu on Vagrant |
