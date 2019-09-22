@@ -37,4 +37,4 @@
 
 ## Author
 
-- **Tu Vo** - [vdphan](https://github.com/vdphan)
+- **Van Phan** - [vdphan](https://github.com/vdphan)
